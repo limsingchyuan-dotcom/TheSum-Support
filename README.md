@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>The Sum : Math And Puzzle Support</title>
+The Sum : Math And Puzzle Support
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
