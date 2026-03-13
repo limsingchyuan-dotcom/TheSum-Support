@@ -14,7 +14,7 @@ The Sum : Math And Puzzle Support
 
 <p>If you need help with the game please contact us.</p>
 
-<p>Email: your@email.com</p>
+<p>Email: limsingchyuan@icloud.com</p>
 
 <h3>FAQ</h3>
 
